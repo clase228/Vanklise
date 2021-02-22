@@ -861,6 +861,10 @@ h6 {
   margin-bottom: 273px;
 }
 
+.ov {
+  overflow: hidden;
+}
+
 @media (max-width: 1280px) {
   .team {
     padding-top: 139px;
